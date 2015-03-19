@@ -38,7 +38,7 @@ Trip take [July 31st, 2013](http://jrcadventures.com/past-adventures/the-wonderl
   - mosquitoes and flies
 
 #### *Milton Cross*
-Trip taken [August 15th to 26th](http://www.backpackinglight.com/cgi-bin/backpackinglight/forums/thread_display.html?forum_thread_id=52881)
+Trip taken [August 15th to 26th 2011](http://www.backpackinglight.com/cgi-bin/backpackinglight/forums/thread_display.html?forum_thread_id=52881)
   - one day off trail to rest
   - MOSQUITOS!
 
