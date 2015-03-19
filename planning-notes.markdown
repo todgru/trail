@@ -1,6 +1,13 @@
 # Wonderland Trail
 
-### Food/Fuel Caching
+# Trip Planning
+
+[Wonderland Trail Trip Planner](http://www.wonderlandtrailguide.com/wonderland-trail-itinerary-planning/)
+
+see trip planner - 6 days looks like good mileage(11 to 17 miles per day) but elevation changes may make an this too aggressive and difficult.
+
+
+# Food/Fuel Caching
 
 [http://www.nps.gov/mora/planyourvisit/caching-food-and-fuel.htm]
 
@@ -12,10 +19,6 @@ Food cached can be mailed or hand delivered to:
 - White River Campground at White River, fuel
 - Sunrise Visitor Center at Sunrise, fuel, late opener, close for the season shortly after Labor Day
 - The Mowich Lake Patrol Cabin at Mowich Lake, fuel, late opener, closes mid September 
-
-
-see trip planner - 6 days looks like good mileage(11 to 17 miles per day) but elevation changes may make an this too aggressive and difficult.
-
 
 
 # Trip Reports
