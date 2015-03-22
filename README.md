@@ -1,3 +1,3 @@
-# Wonderland Trail
+# Trail
 
-Wonderland trail notes
+Trail notes
