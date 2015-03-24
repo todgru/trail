@@ -45,4 +45,6 @@ Trip taken [August 15th to 26th 2011](http://www.backpackinglight.com/cgi-bin/ba
   - one day off trail to rest
   - MOSQUITOS!
 
+# Guides
 
+* Interview with Tami Asars [http://www.thenewstribune.com/2013/03/17/2517615/author-makes-case-for-hiking-route.html](Wonderland Trail: Author makes case for hiking route counterclockwise) _The news Tribune_
