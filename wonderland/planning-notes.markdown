@@ -20,6 +20,10 @@ Food cached can be mailed or hand delivered to:
 - Sunrise Visitor Center at Sunrise, fuel, late opener, close for the season shortly after Labor Day
 - The Mowich Lake Patrol Cabin at Mowich Lake, fuel, late opener, closes mid September 
 
+# Mileage
+
+[http://www.eyehike.com/docs/Wonderland%20Trail%20Trip%20Planner.xls](XLS of mileages between campsites)
+
 
 # Trip Reports
 

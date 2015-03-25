@@ -1,0 +1,22 @@
+from,to,distance
+Longmire,Pyramid Creek,3.0
+Pyramid Creek,Devil's Dream,2.0
+Devil's Dream,South Puyallup River,6.1
+South Puyallup River,Klapatche Park,3.7
+Klapatche Park,North Puyallup River,2.8
+North Puyallup River,Golden Lakes,5.0
+Golden Lakes,South Mowich River,6.8
+South Mowich River,Mowich Lake,3.4
+Mowich Lake,Ipsut Creek,5.6
+Ipsut Creek,Carbon River,2.9
+Carbon River,Dick Creek,1.1
+Dick Creek,Mystic Camp,3.8
+Mystic Camp,Granite Creek,5.5
+Granite Creek,Sunrise Camp,5.1
+Sunrise Camp,White River,2.1
+White River,Summerland,6.7
+Summerland,Indian Bar,4.5
+Indian Bar,Nickel Creek,6.4
+Nickel Creek,Maple Creek,3.6
+Maple Creek,Paradise River,7.4
+Paradise River,Longmire,5.5
