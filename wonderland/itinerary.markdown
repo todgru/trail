@@ -1,8 +1,8 @@
 # 2015 Itinerary September 8th to 15th
-======================================
+--------------------------------------
 
 ## 9 Day Counterclockwise starting at Sunrise
-==============================================
+----------------------------------------------
 
 0. Day 0
   * Pickup permits and drop food cache in Longmire
@@ -17,7 +17,7 @@
 8. Day 8: Summerland to Sunrise Camp 8.8 miles
 
 ## 8 Day Counterclockwise Starting at Whiteriver
-================================================
+------------------------------------------------
 
 0. Day 0
   * Pickup permits and drop food cache in Longmire
@@ -33,7 +33,7 @@
 
 
 ## Unknown
-==========
+----------
 0. Day 0
   * Pickup permits and drop food cache in Longmire
   * Drive to Sunrise
