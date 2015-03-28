@@ -48,7 +48,7 @@ class WonderLoop
 
   # Create matrix of distance between a given point and anything other point in the loop.
   #
-  # { "start" -> { "stop1" => 12, "stop2" => 22 }
+  # { "start_name" -> { "stop1" => distance1, "stop2" => distanc2 }
   #   ...
   # }
   def create
@@ -69,16 +69,16 @@ class WonderLoop
     n = 0
 
     # "next if" until we get to the first occurence of ":from == start_from"
-    # each of the :from's that we skipped, add them to the discard pile. we may need them.
+    # each of the :from's that we skipped, add them to the discard pile. We may
+    # need them to determine the final destination.
     @mileage.each do |row|
       break if start_from == row[:from]
       skip += 1
       discards << row
     end
 
-    # skip the n first items that we discarded, then start adding
-    # Start adding the distances together
-    # until we get to ":to == finish", if it exists, else..
+    # skip the n first items that we discarded, then start adding the distances
+    # together until we get to ":to == finish", if it exists, else ...
     @mileage.each do |row|
       n += 1
       next if skip >= n 
@@ -89,7 +89,7 @@ class WonderLoop
     # ...if its not found, start adding distances from the discard pile
     #
     # Start adding the distances from the discard pile
-    # until we get to ":to == fin"
+    # until we get to ":to == fininsh"
     # if its not found, return zero
     # if its found, return current sum
     discards.each do |row|
